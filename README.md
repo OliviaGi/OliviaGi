@@ -1,5 +1,5 @@
 # ✨ About Me:
-🔭 I’m currently working on creating and designing websites<br>🌱 I’m currently learning JavaScript and SASS<br>⚡ Fun fact My first exposure to web development was **[Neopets](https://www.neopets.com/help/html1.phtml)** in the early 2000s (their HTML1 guide is still up and running). Took me a while to rediscover web development as an adult, but I'm enjoying it just as much as I did back then<br>🖖 When I'm not at a computer you'll find me making clothing on my vintage sewing machine or watching Star Trek
+🔭 I’m currently working on creating and designing websites<br>🌱 I’m currently learning JavaScript, Wordpress and SASS<br>⚡ Fun fact My first exposure to web development was **[Neopets](https://www.neopets.com/help/html1.phtml)** in the early 2000s (their HTML1 guide is still up and running). Took me a while to rediscover web development as an adult, but I'm enjoying it just as much as I did back then<br>🖖 When I'm not at a computer you'll find me making clothing on my vintage sewing machine or watching Star Trek
 
 
 # 💻 Tech Stack:
