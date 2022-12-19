@@ -3,8 +3,10 @@
 🔭 I’m currently working on creating and designing websites<br>🌱 I’m currently learning JavaScript, Wordpress and PHP<br>⚡ Fun fact My first exposure to web development was **Neopets** in the early 2000s (their [HTML1 guide](https://www.neopets.com/help/html1.phtml) is still up and running). Took me a while to rediscover web development as an adult, but I'm enjoying it just as much as I did back then<br>🖖 When I'm not at a computer you'll find me making clothing on my vintage sewing machine or watching Star Trek
 
 ## 👩‍💻 Current projects
-* Concept website for [body care small business ](https://github.com/OliviaGi/Website_Herbal-House)
+
 * Concept website for [small medical clinic](https://github.com/OliviaGi/Medical_Clinic_page)
+* [Bakery Landing Page](https://github.com/OliviaGi/Bakery_Landing_page)
+* Concept website for [body care small business ](https://github.com/OliviaGi/Website_Herbal-House)
 * [Maximalist Tattoo parlor concept page](https://github.com/OliviaGi/Maximalist_Tattoo_Site)
 * [Resource list](https://github.com/OliviaGi/Resources)
 
